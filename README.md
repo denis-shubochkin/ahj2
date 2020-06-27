@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/saifglkc1ukx3sj3?svg=true)](https://ci.appveyor.com/project/denis-shubochkin/ahj2)
 https://denis-shubochkin.github.io/ahj2/
 
 Правила сдачи задания:
